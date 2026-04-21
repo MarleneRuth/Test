@@ -1,0 +1,11 @@
+# Definimos las edades
+edad_persona1 = 24
+edad_persona2 = 29
+
+# Comparamos las edades usando una estructura "if" (si)
+if edad_persona1 > edad_persona2:
+    print("La primera persona es mayor.")
+elif edad_persona2 > edad_persona1:
+    print("La segunda persona (29 años) es mayor.")
+else:
+    print("Ambas personas tienen la misma edad.")
